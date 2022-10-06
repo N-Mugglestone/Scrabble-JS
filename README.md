@@ -1,3 +1,12 @@
+Welcome to the first mini project I ever completed way back when I started out. 
+
+The purpose of this was to create a very basic scrabble game simulator that gave values to letters and would output the value of a given word. 
+
+The reason behind its creation was as a initial challenge and introduction to javascript and the most basic pieces of code, such as contructors, methods and loops. This also being a great introduction on how to use the basics of Github.
+
+The tests in this project were in the pre-made package that I was given and were conditions for pass or failure that I was to meet in order to have a fully functional piece of code that satisfied the conditions that are set below.
+
+This are the instructions and specifications that were presented to me and where I began.
 # Scrabble Challenge
 
 Welcome to the Scrabble challenge!

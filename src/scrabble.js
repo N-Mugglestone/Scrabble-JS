@@ -15,9 +15,15 @@ class Scrabble {
   }
 
   score() {
-    if (this.word === null || typeof this.word !== 'string' || !this.word.match("[a-zA-Z]+")) {
-      return 0;
-    }
+    // if (this.word === null || typeof this.word !== 'string' || !this.word.match("[a-zA-Z]+")) {
+    //return 0;
+    // }
+
+    // return this.word.split('').map((chr) => letterValues[chr]).reduce((acc, val) => acc + val);
+    // this.word = 'abc'
+    // this.word.split('') = ['a', 'b', 'c']
+    // this.word.split('').map((chr) => letterValues[chr]) = [1, 3, 3]
+    // this.word.split('').map((chr) => letterValues[chr]).reduce((acc, val) => acc + val) = 7;
 
     let points = 0;
     for (let index = 0; index < this.word.length; index++) {
@@ -31,3 +37,5 @@ class Scrabble {
 }
 
 module.exports = Scrabble;
+
+//if (!this.word.match("[a-zA-Z]"))
