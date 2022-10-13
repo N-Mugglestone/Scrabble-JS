@@ -1,8 +1,6 @@
 <div align="center">
-Welcome to the first mini project I ever completed way back when I started out! 
+<h2> Welcome to the first mini project I ever completed way back when I started out! <h2>
 </div>
-
----
 
 The purpose of this was to create a very basic scrabble game simulator that gave values to letters and would output the value of a given word. 
 
