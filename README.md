@@ -1,12 +1,21 @@
-Welcome to the first mini project I ever completed way back when I started out. 
+<div align="center">
+Welcome to the first mini project I ever completed way back when I started out! 
+</div>
+
+---
 
 The purpose of this was to create a very basic scrabble game simulator that gave values to letters and would output the value of a given word. 
 
+<div align="center">
+ <img src="https://media0.giphy.com/media/l0MYJemY03GKJy57W/giphy.gif?cid=790b76115cb97761a16b861b981b4d28a2e41ba02028911b&rid=giphy.gif&ct=g" width="auto" height="auto" />
+</div>
+
 The reason behind its creation was as a initial challenge and introduction to javascript and the most basic pieces of code, such as contructors, methods and loops. This also being a great introduction on how to use the basics of Github.
 
-The tests in this project were in the pre-made package that I was given and were conditions for pass or failure that I was to meet in order to have a fully functional piece of code that satisfied the conditions that are set below.
+The tests in this project were in the pre-made package that I was given, as were conditions for pass or failure that I was to meet in order to have a fully functional piece of code that satisfied the conditions that are set below.
 
-This are the instructions and specifications that were presented to me and where I began.
+This are the instructions and specifications that were presented to me and where I began...
+
 # Scrabble Challenge
 
 Welcome to the Scrabble challenge!
